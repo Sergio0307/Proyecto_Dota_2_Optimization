@@ -1,4 +1,4 @@
-# Optimización del farmeo en Dota 2 mediante Matemática Numérica
+# Optimización del farmeo en Dota 2 mediante Matemática Numérica pero como base la Optimización
 
 Proyecto académico que modela la obtención de oro en Dota 2 (oleadas de línea
 y campamentos neutrales) y calcula la ruta de farmeo óptima para tres héroes:
